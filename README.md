@@ -1,9 +1,10 @@
 
 Anggota Kelompok
 
-Herva Sulistia
+1.Herva Sulistia
 
-Maulana Malik Ibrahim
+2.Maulana Malik Ibrahim
 
-Siti Nazira
+3.Siti Nazira
+
 
